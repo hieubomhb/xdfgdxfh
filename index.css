@@ -1,0 +1,108 @@
+html,
+body,
+.sign-in, .upload{
+    height: 100%;
+    font-family: lato;
+    
+}
+
+
+
+body {
+    display: block;
+    background: #E5E5E5;
+}
+
+
+.sign-in-content, .upload-content{
+    width: 400px;
+
+}
+h1{
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 8px;
+} 
+span{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #828282;
+    display: block;
+
+
+}
+#sign-in-form, #upload-form-1, #upload-form-2{
+    background: #FFFFFF;
+    box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 16px;
+    padding: 40px;
+    margin-top: 40px;
+}
+label{
+    border-radius: 16px;
+    margin-bottom: 8px;
+    display: block;
+    color: #4F4F4F;
+}
+input{
+    background: #FFFFFF;
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    height: 53px;
+    padding: 16px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    margin-bottom: 24px;
+
+}
+input::placeholder{
+    color: #BDBDBD;
+
+}
+button{
+    background: #35CE97;
+    border: 1px solid #35CE97;
+    box-sizing: border-box;
+    border-radius: 88px;
+    height: 56px;
+    font-family: Lato;
+    font-size: 20px;
+    line-height: 24px;
+    color: #F2F2F2;
+}
+
+html,
+body,
+.upload{
+    height: 100%;
+    font-family: lato;
+
+}
+
+.btn {
+    margin: 40px 80px 60px;
+    background: #35CE97;
+    border: 1px solid #35CE97;
+    box-sizing: border-box;
+    border-radius: 88px;
+    height: 56px;
+    font-family: Lato;
+    font-size: 20px;
+    line-height: 24px;
+    color: #F2F2F2;
+}
+
+
+
